@@ -1,0 +1,47 @@
+.text-field {
+    border: #607d8b;
+    border-style: solid;
+    border-radius: 8px;
+    display: block;
+    margin: 4px !important;
+    padding: 20px 0 0 !important;
+}
+
+.mdl-textfield__label:after {
+    background-color: transparent !important;
+}
+
+.input-padding {
+    margin-left: 8px !important;
+}
+
+.form {
+    display: flex;
+    flex: 1 1 auto;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    flex-direction: column;
+}
+
+.main-div {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #607d8b85;
+}
+
+.page-content {
+    height: 100%;
+}
+
+.card-wide {
+    width: 512px !important;
+    text-align: center;
+}
+
+.text-input {
+    border-bottom: none !important;
+    width: 94% !important;
+}

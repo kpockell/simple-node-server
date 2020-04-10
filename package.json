@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "Simple node server",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --inspect app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpockell/simple-node-server.git"
+  },
+  "author": "Kris Pockell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpockell/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/kpockell/simple-node-server#readme"
+}
